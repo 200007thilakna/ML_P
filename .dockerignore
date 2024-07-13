@@ -1,0 +1,7 @@
+__pycache__
+.ebextensions
+catboost_info
+logs
+notebook
+*.egg-info 
+venv
